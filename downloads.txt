@@ -1,0 +1,13 @@
+OpenFrame 7.1 for Tibero ver. 1
+https://technet.tmaxsoft.com/en/front/download/viewDownload.do?cmProductCode=0501&version_seq=PVER-20211126-000001&doc_type_cd=DN
+
+Tibero 6 Global Unified Binary #11
+https://ims.tmaxsoft.com/tody/ims/issue/issueView.do?issueId=292251
+https://ims.tmaxsoft.com/tody/innorix/common/download.jsp?filePath=/nas/ims/attach/ims/2022/202210/l/&tempFileName=df23d32a-03d7-444d-b026-548a64205236.dat&fileName=tibero6-bin-FS07_CS_2005-linux64_3%2E10-254764-20221006094515%2Emd5&_StartOffset=0&_EndOffset=100
+
+JEUS 7.0 Fix#4 EN
+https://technet.tmaxsoft.com/download2.do?filePath=/nas/technet/technet/upload/download/binary/jeus/7/0/&tempFileName=FILE-20170322-000002_170322165401_1.bin&attFileSeq=FILE-20170322-000002&fileSeqNo=1&fileName=jeus70_unix_generic_en.bin&_StartOffset=0&_EndOffset=596757601&_printFileName=jeus70_unix_generic_en.bin
+
+IMS#116754 jeusadmin access denied
+https://ims.tmaxsoft.com/tody/ims/issue/issueView.do?issueId=116754
+jext_v7004_i116754_a756512.jar
