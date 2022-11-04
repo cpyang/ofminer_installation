@@ -1,0 +1,221 @@
+Preparing to install...
+Extracting the installation resources from the installer archive...
+Configuring the installer for this system's environment...
+
+Launching installer...
+
+Preparing CONSOLE Mode Installation...
+
+===============================================================================
+OpenFrame_Miner_7_Fix1            (created with InstallAnywhere by Macrovision)
+-------------------------------------------------------------------------------
+
+
+
+
+===============================================================================
+Introduction
+------------
+
+InstallAnywhere will guide you through the installation of 
+OpenFrame_Miner_7_Fix1.
+
+It is strongly recommended that you quit all programs before continuing with 
+this installation.
+
+Respond to each prompt to proceed to the next step in the installation.  If you
+want to change something on a previous step, type 'back'.
+
+You may cancel this installation at any time by typing 'quit'.
+
+PRESS <ENTER> TO CONTINUE: 
+
+
+===============================================================================
+License Agreement
+-----------------
+
+Installation and Use of OpenFrame_Miner_7_Fix1 Requires Acceptance of the 
+Following License Agreement:
+
+TmaxSoft  Release
+TmaxSoft Co., Ltd. (hereafter, TmaxSoft) End-User License Agreement
+
+Product : OFMiner 7.0
+
+This is a legal agreement between you (either an individual or an company) and 
+TmaxSoft, Incorporated.  By opening the sealed software package and/or by using
+the software, you agree to be bound by the terms of this agreement.
+
+TmaxSoft License
+1.  Grant of License:  This TmaxSoft License Agreement ("License") permits you 
+to use one copy of the TmaxSoft product Web Gateway, on any single computer, 
+provided the software is in use on only one computer at any one time.  If this 
+package is a license pack, you may make and use additional copies of the 
+software up to the number of licensed copies authorized.  If you have multiple 
+licenses for the software, then at any time you may have as many copies of the 
+software in use as you have licenses.
+  The software is "in use" on a computer when it is loaded into the temporary 
+memory (i.e., RAM) or installed into the permanent memory (e.g., hard disk, 
+CD-ROM, or other storage devices) of that computer, except that a copy 
+installed on a network server for the sole purpose of distribution to other 
+computers is not "in use".  If the anticipated number of users of the software 
+will exceed the number of applicable licenses, then you must have a reasonable 
+
+PRESS <ENTER> TO CONTINUE: 
+mechanism or process in place to ensure that the number of persons using the 
+software concurrently does not exceed the number of licenses.
+
+2.  Copyright:  The software (including any images, "applets," photographs, 
+animations, video, audio, music and text incorporated into the software) is 
+owned by TmaxSoft or its suppliers and international treaty provisions. 
+Therefore, you must treat the software like any other copyrighted materials 
+(e.g., a book or musical recording) except that you may either (a) make one 
+copy of the software solely for backup or archival purposes, or (b) transfer 
+the software to a single hard disk provided you keep the original solely for 
+backup or archival purposes.  You may not copy the printed materials 
+accompanying the software, nor print copies of any user documentation provided 
+in "online" or electronic form.
+
+3.  Other restrictions: This license is your proof of license to exercise the 
+rights granted herein and must be retained by you. You may not rent, lease, or 
+transfer your rights under this license on a permanent basis provided you 
+transfer this license, the software, and all accompanying printed materials, 
+retain no copies, and the recipient agrees to the terms of this license. You 
+may not reverse engine, decompile, or disassemble the software, except to the 
+extent that the foregoing restriction is expressly prohibited by applicable 
+law.
+
+PRESS <ENTER> TO CONTINUE: 
+
+
+DO YOU ACCEPT THE TERMS OF THIS LICENSE AGREEMENT? (Y/N): 
+
+
+===============================================================================
+Choose Install Folder
+---------------------
+
+Where would you like to install?
+
+  Default Install Folder: /home/cpyang/OFMiner
+
+ENTER AN ABSOLUTE PATH, OR PRESS <ENTER> TO ACCEPT THE DEFAULT
+      : 
+INSTALL FOLDER IS: /opt/tmaxsoft/OFMiner
+   IS THIS CORRECT? (Y/N): 
+
+
+===============================================================================
+Get Jeus Infomation
+-------------------
+
+Plase Enter the Domain Name and the Server name
+(Installation Server Folder)
+
+Jeus Server Name (DEFAULT: server1): 
+Jeus Administrator PW (DEFAULT: ): 
+Jeus PORT (DEFAULT: ): 
+
+
+
+===============================================================================
+Get DataBase Infomation
+-----------------------
+
+Enter requested information
+
+DataBase IP (DEFAULT: 127.0.1.1): 
+DataBase PORT (DEFAULT: 8629): 
+DataBase NAME (DEFAULT: tibero6): 
+DataBase User ID (DEFAULT: tibero): 
+DataBase User PW (DEFAULT: tmax): 
+
+
+
+===============================================================================
+Choose OS
+---------
+
+Enter requested information
+ex) mvs,xsp
+
+OFMiner OS (DEFAULT: mvs): 
+
+
+
+===============================================================================
+Get OFMiner license Path
+------------------------
+
+Enter requested information
+ex) /home/user1/license/OFMinerLicense
+
+OFMiner License Path (DEFAULT: ): 
+
+
+
+===============================================================================
+Pre-Installation Summary
+------------------------
+
+Please Review the Following Before Continuing:
+
+Product Name:
+    OpenFrame_Miner_7_Fix1
+
+OFMINER_HOME
+    /opt/tmaxsoft/OFMiner
+
+Jeus Server Name
+    server1
+
+Jeus PORT
+    9736
+
+Database IP
+    127.0.1.1
+
+Database PORT
+    8629
+
+Database NAME
+    tibero6
+
+Database ID
+    ofminer
+
+Database PW
+    ofminer
+
+OS
+    mvs
+
+LICENSE PATH
+    /home/cpyang/OFMinerLicense
+
+
+
+PRESS <ENTER> TO CONTINUE: 
+
+
+===============================================================================
+Installing...
+-------------
+
+ [==================|==================|==================|==================]
+ [------------------|------------------|------------------|------------------]
+
+
+
+===============================================================================
+Installation Complete
+---------------------
+
+Congratulations! OpenFrame_Miner_7_Fix1 has been successfully installed to:
+
+/opt/tmaxsoft/OFMiner
+
+Press Done to quit the installer.
+
+PRESS <ENTER> TO EXIT THE INSTALLER: 

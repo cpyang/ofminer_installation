@@ -1,0 +1,263 @@
+Preparing to install...
+Extracting the installation resources from the installer archive...
+Configuring the installer for this system's environment...
+
+Launching installer...
+
+Preparing CONSOLE Mode Installation...
+
+===============================================================================
+JEUS7.0                           (created with InstallAnywhere by Macrovision)
+-------------------------------------------------------------------------------
+
+
+
+
+===============================================================================
+Introduction
+------------
+
+InstallAnywhere will guide you through the installation of JEUS7.0.
+
+It is strongly recommended that you quit all programs before continuing with 
+this installation.
+
+Respond to each prompt to proceed to the next step in the installation.  If you
+want to change something on a previous step, type 'back'.
+
+You may cancel this installation at any time by typing 'quit'.
+
+PRESS <ENTER> TO CONTINUE: 
+
+
+===============================================================================
+License Agreement
+-----------------
+
+Installation and Use of JEUS7.0 Requires Acceptance of the Following License 
+Agreement:
+
+JEUS (Java Enterprise User Solution) Release JEUS7
+TmaxSoft Co., Ltd. (hereafter, TmaxSoft) End-User License Agreement
+
+Product : JEUS
+
+This is a legal agreement between you (either an individual or an company) and 
+TmaxSoft, Incorporated.  By opening the sealed software package and/or by using
+the software, you agree to be bound by the terms of this agreement.
+
+TmaxSoft License
+1.  Grant of License:  This TmaxSoft License Agreement ("License") permits you 
+to use one copy of the TmaxSoft product JEUS, on any single computer, provided 
+the software is in use on only one computer at any one time.  If this package 
+is a license pack, you may make and use additional copies of the software up to
+the number of licensed copies authorized.  If you have multiple licenses for 
+the software, then at any time you may have as many copies of the software in 
+use as you have licenses.
+  The software is "in use" on a computer when it is loaded into the temporary 
+memory (i.e., RAM) or installed into the permanent memory (e.g., hard disk, 
+CD-ROM, or other storage devices) of that computer, except that a copy 
+installed on a network server for the sole purpose of distribution to other 
+computers is not "in use".  If the anticipated number of users of the software 
+will exceed the number of applicable licenses, then you must have a reasonable 
+
+PRESS <ENTER> TO CONTINUE: 
+mechanism or process in place to ensure that the number of persons using the 
+software concurrently does not exceed the number of licenses.
+
+2.  Copyright:  The software (including any images, "applets," photographs, 
+animations, video, audio, music and text incorporated into the software) is 
+owned by TmaxSoft or its suppliers and international treaty provisions. 
+Therefore, you must treat the software like any other copyrighted materials 
+(e.g., a book or musical recording) except that you may either (a) make one 
+copy of the software solely for backup or archival purposes, or (b) transfer 
+the software to a single hard disk provided you keep the original solely for 
+backup or archival purposes.  You may not copy the printed materials 
+accompanying the software, nor print copies of any user documentation provided 
+in "online" or electronic form.
+
+3.  Other restrictions: This license is your proof of license to exercise the 
+rights granted herein and must be retained by you. You may not rent, lease, or 
+transfer your rights under this license on a permanent basis provided you 
+transfer this license, the software, and all accompanying printed materials, 
+retain no copies, and the recipient agrees to the terms of this license. You 
+may not reverse engine, decompile, or disassemble the software, except to the 
+extent that the foregoing restriction is expressly prohibited by applicable 
+law.
+
+PRESS <ENTER> TO CONTINUE: 
+
+
+DO YOU ACCEPT THE TERMS OF THIS LICENSE AGREEMENT? (Y/N): 
+
+
+===============================================================================
+Choose Platform
+---------------
+
+Choose the operating system and architecture :
+1)HP-UX PA-RISC
+2)HP-UX Itanium
+3)Solaris UltraSPARC
+4)Solaris x86
+5)Solaris x64
+6)AIX 5.x, 6.x, 7.x PowerPC
+7)Linux Itanium
+8)Linux x86
+9)Linux x64
+10)Linux PowerPC 64
+Quit) Quit Installer
+
+Choose Current System (DEFAULT: 9): 
+
+
+
+===============================================================================
+Installation Folder
+-------------------
+
+Enter the installation folder.
+
+  Default Install Folder: /home/cpyang/jeus7
+
+ENTER AN ABSOLUTE PATH, OR PRESS <ENTER> TO ACCEPT THE DEFAULT
+      : 
+INSTALL FOLDER IS: /opt/tmaxsoft/jeus7
+   IS THIS CORRECT? (Y/N): 
+
+
+===============================================================================
+Directory Check
+---------------
+
+User Specified Directory exists. To overwrite JEUS7.0, click 'Overwrite'. To 
+choose Different directory, click 'Change'. To cancel the installation, click 
+'Cancel'.
+
+  ->1- Overwrite
+    2- Change...
+    3- Cancel
+
+ENTER THE NUMBER OF THE DESIRED CHOICE, OR PRESS <ENTER> TO ACCEPT THE 
+   DEFAULT: 
+
+
+===============================================================================
+Installation type
+-----------------
+
+Please choose the Install Set to be installed by this installer.
+
+  ->1- Domain Admin Server
+    2- Managed Server
+
+ENTER THE NUMBER FOR THE INSTALL SET, OR PRESS <ENTER> TO ACCEPT THE DEFAULT
+   : 
+
+
+===============================================================================
+Installation Mode
+-----------------
+
+* Production Mode
+- Disables JEUS Hot Swap.
+- Disables Automatic Reloading.
+- Displays a warning message and recommends using a full license if a demo 
+license is used.
+
+* Development Mode
+- Enables JEUS Hot Swap.
+- Enables Automatic Reloading.
+
+  ->1- Production Mode
+    2- Development Mode
+    3- Cancel
+
+ENTER THE NUMBER OF THE DESIRED CHOICE, OR PRESS <ENTER> TO ACCEPT THE 
+   DEFAULT: 
+
+
+===============================================================================
+Enter the JDK path.
+-------------------
+
+Enter the JDK path:
+
+Enter the JDK path (DEFAULT: /usr): 
+
+
+
+===============================================================================
+Password Input
+--------------
+
+Enter the Password for the administrator account.
+
+
+
+===============================================================================
+User Domain name
+----------------
+
+Enter the Domain name
+
+Enter the domain name (DEFAULT: jeus_domain): 
+
+
+
+===============================================================================
+Node Manager
+------------
+
+select either ssh or java node manager
+
+  ->1- java
+    2- ssh
+    3- Cancel
+
+ENTER THE NUMBER OF THE DESIRED CHOICE, OR PRESS <ENTER> TO ACCEPT THE 
+   DEFAULT: 
+
+
+===============================================================================
+Pre-Installation Summary
+------------------------
+
+Review the Following Before Continuing:
+
+Product Name:
+    JEUS7.0
+
+Install Folder:
+    /opt/tmaxsoft/jeus7
+
+Install Set
+    Domain Admin Server
+
+Disk Space Information (for Installation Target): 
+    Required:  757,054,984 bytes
+    Available: 1,019,748,900,864 bytes
+
+PRESS <ENTER> TO CONTINUE: 
+
+
+===============================================================================
+Installing...
+-------------
+
+ [==================|==================|==================|==================]
+ [------------------|------------------|------------------|------------------]
+
+
+
+===============================================================================
+Installation Complete
+---------------------
+
+JEUS7.0 has been successfully installed to:
+
+     /opt/tmaxsoft/jeus7
+
+PRESS <ENTER> TO EXIT THE INSTALLER: 
+Input Password:: 
+Corfirm Password:: 
